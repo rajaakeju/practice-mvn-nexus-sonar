@@ -1,3 +1,3 @@
 # practice-mvn-nexus-sonar
 
-sample comment
+sample comment test
